@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Top_Salesmen>
+    <Salesman>
+        <Salesman_name>Nikita</Salesman_name>
+        <Salesman_last_name>Smirnov</Salesman_last_name>
+        <Quantity>9333</Quantity>
+    </Salesman>
+    <Salesman>
+        <Salesman_name>Karl</Salesman_name>
+        <Salesman_last_name>Morozov</Salesman_last_name>
+        <Quantity>2300</Quantity>
+    </Salesman>
+    <Salesman>
+        <Salesman_name>Stas</Salesman_name>
+        <Salesman_last_name>Kolomin</Salesman_last_name>
+        <Quantity>1425</Quantity>
+    </Salesman>
+    <Salesman>
+        <Salesman_name>Nastya</Salesman_name>
+        <Salesman_last_name>Ivanova</Salesman_last_name>
+        <Quantity>430</Quantity>
+    </Salesman>
+    <Salesman>
+        <Salesman_name>Mary</Salesman_name>
+        <Salesman_last_name>Glebova</Salesman_last_name>
+        <Quantity>110</Quantity>
+    </Salesman>
+</Top_Salesmen>
